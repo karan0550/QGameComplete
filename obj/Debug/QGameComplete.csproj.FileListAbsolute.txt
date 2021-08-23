@@ -1,0 +1,12 @@
+C:\karan\QGameComplete\bin\Debug\QGameComplete.exe.config
+C:\karan\QGameComplete\bin\Debug\QGameComplete.exe
+C:\karan\QGameComplete\bin\Debug\QGameComplete.pdb
+C:\karan\QGameComplete\obj\Debug\QGameComplete.csprojAssemblyReference.cache
+C:\karan\QGameComplete\obj\Debug\QGameComplete.DesignForm.resources
+C:\karan\QGameComplete\obj\Debug\QGameComplete.PlayForm.resources
+C:\karan\QGameComplete\obj\Debug\QGameComplete.QGameControlPanel.resources
+C:\karan\QGameComplete\obj\Debug\QGameComplete.Properties.Resources.resources
+C:\karan\QGameComplete\obj\Debug\QGameComplete.csproj.GenerateResource.cache
+C:\karan\QGameComplete\obj\Debug\QGameComplete.csproj.CoreCompileInputs.cache
+C:\karan\QGameComplete\obj\Debug\QGameComplete.exe
+C:\karan\QGameComplete\obj\Debug\QGameComplete.pdb
